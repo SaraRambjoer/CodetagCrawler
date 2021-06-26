@@ -32,7 +32,7 @@ will be interpreted as two comments. The crawler also supports
 Code tags must be the first word in the comment to get registered. 
 
 # Installation
-The package can be installed by using PIP.
+The package can be installed by using PIP. https://pypi.org/project/CodetagCrawler/
 
 # Usage
 The click interface supports the following commands: 
