@@ -1,0 +1,21 @@
+CODETAGS:
+  - TODO
+  - FIXME
+  - BUG
+  - NOBUG
+  - RFE
+  - IDEA
+  - HACK
+  - TODOC
+IGNORE_DIRECTORIES:
+  - .idea
+  - venv
+CODETAG_TO_WORK_ITEM_TYPE:
+  TODO: Task
+  FIXME: Task
+  BUG: Bug
+  NOBUG: Bug
+  RFE: Task
+  IDEA: Task
+  TODOC: Task
+  HACK: Issue

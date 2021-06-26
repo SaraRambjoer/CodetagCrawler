@@ -1,0 +1,12 @@
+Work Item Type,Title,Description
+Task,_ag_TODO Implement men,Fish\Aliens\Martians.py _ag_ TODO Implement men
+Task,_ag_TODOC What is the English name though?,Fish\Dogs\Dobberman.py _ag_ TODOC What is the English name though?
+Task,_ag_IDEA What if we made them bigger?,Fish\Dogs\Great Dane.py _ag_ IDEA What if we made them bigger?
+Issue,_ag_HACK Dog implemented by changing cat model,Fish\Dogs\ShibaInu.py _ag_ HACK Dog implemented by changing cat model
+Bug,_ag_NOBUG Will not fix sideways walking,Fish\Crab.py _ag_ NOBUG Will not fix sideways walking
+Task,_ag_RFE Implement Kraken,Fish\OtherNautical.py _ag_ RFE Implement Kraken
+Bug,_ag_BUG Can go upriver???,Fish\Salmon.py _ag_ BUG Can go upriver???
+Bug,_ag_BUG Can live for several minutes after decapitation,Chicken.py _ag_ BUG Can live for several minutes after decapitation
+Task,_ag_TODO BAK-AAAW,Chicken.py _ag_ TODO BAK-AAAW # BUG If you read me as a seperate code-tag you are a dumb; dumb; dumb crawler. ''' TODO Include me with bak-aaaw too! '''
+Task,_ag_FIXME Extinct,Dodo.py _ag_ FIXME Extinct
+Task,_ag_TODO Implement plains,Horse.py _ag_ TODO Implement plains
